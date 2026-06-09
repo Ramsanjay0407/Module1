@@ -13,8 +13,7 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 
-NAME: RAMSANJAY C
-REG NO : 212224220077
+
 ~~~
 NAME: RAMSANJAY C
 REG NO : 212224220077
