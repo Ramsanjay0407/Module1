@@ -10,6 +10,8 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ~~~
+NAME: RAMSANJAY C
+REG NO : 212224220077
 men_stepped_on_the_moon=input()
 print(men_stepped_on_the_moon)
 ~~~
